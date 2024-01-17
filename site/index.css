@@ -1,0 +1,25 @@
+html {
+  font-size: calc(1.1 * 1em);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.25;
+  max-width: 38em;
+  margin: auto;
+}
+
+#banner {
+  margin: auto;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+dt {
+  font-weight: bold;
+}
+
+#apply-link {
+  text-align: center;
+  font-size: large;
+}
