@@ -27,7 +27,7 @@ dt {
 #sponsors {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 #sponsors div {
@@ -35,6 +35,11 @@ dt {
   background-color: aqua;
   border: blue 1px solid;
   font-size: 2rem;
+  padding: 0.3rem;
+}
+
+#sponsors img {
+  width: 10rem;
   padding: 0.3rem;
 }
 
